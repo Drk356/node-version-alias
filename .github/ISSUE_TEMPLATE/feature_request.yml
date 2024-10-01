@@ -10,7 +10,7 @@ body:
     attributes:
       label: Guidelines
       options:
-        - label:
+        - label:1
             Please search other issues to make sure this feature has not already
             been requested.
           required: true
